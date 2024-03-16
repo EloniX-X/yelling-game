@@ -1,0 +1,21 @@
+
+.pids-wrapper{
+    width: 100%;
+}
+.pid{
+width: calc(10% - 10px);
+height: 10px;
+display: inline-block;
+margin: 5px;
+}
+.enemy-wrapper{
+    width: 100%;
+}
+
+.enemy-pid{
+width: calc(10% - 10px);
+height: 10px;
+display: inline-block;
+margin: 5px;
+}
+
